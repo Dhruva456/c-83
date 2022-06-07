@@ -1,0 +1,10 @@
+body{
+    background-image: url("background.webp");
+    background-size: cover;
+    background-position: center;
+}
+#mycanvas{
+    border: 10px ridge pink;
+    background-color: white;
+    border-radius: 20px;
+}
